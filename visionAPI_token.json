@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "datamatics-hackathon",
+  "private_key_id": "2c15015c2e7bb00b89d65aa31ee3066f24b420db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtnUWkA/5W0O07\nepBBZmVcLrBWU4+EZ8RnoxDADpWUUd5zqGdA3g1HiaNAgRNYzKdZfOrIcO2wVzZp\nAuMF/I0OVNUW/9sACUyNvq/Yo3QCgiAclBCDMfv7tehErqUrr0nq3tIWpTK3ab6c\nOXBRdnJkxX+Y6AQpasVb8hhGMvK1rOSA2OIE+MZPly6YXdK1jW7zs2RzCMG7SP3n\nVElSQldPAt5sd4ywtRkuZAkC9EEov+9GPZXpcBfVYb7deFdcsFaqBWQvd6bkLt3C\nQXiVeNkt70VB+xu+vYPEooQR20mKSsFguUQio26WwyM9vwqFZ6okmioNu28LyhB1\nEmXJJJ43AgMBAAECggEABR45y1gCy3RlSfeXARaPrmQB9smH1ZNpitSXzdGgPzsa\nn7Y7NQJWyeEY2vHzLA78b/rqwPXzS9uGUxouryJ+1glSLtdkEWA0zYjtjiljZh+H\n6s/CnNuAXi9CpaOwYtVMDIx9DQXZtOZ9JAXddclUHfxkgpF0bfQj1U4RwSAHX6uo\nruyTM0MxR1LBGjVjEjsS+8p47q9OcHD0Jl2pSe6MiPwvt++RFsegiOoNvvPQshDF\nTe4xDvTPMk47E5SM8vu/GlQo6iWyDzGTScwtw++eXvB8Exawf3q2w3RYEsvF4VDK\nlgcIvOd4v0v6wYkMilGeAruFM0as7ppbuXmIkxS5gQKBgQDdbECNzohZkcVv7uEd\nEgokAeygWalE/leb/xUEoJ6wx3tOzVq39w2ar7n3ivnRge6rl0HXuTplQkZEg+nV\n3nKNRk4sfzdBJjCCBBapkFBrTJlx2YQSS7XIrsBVq8lD7ezqJWtul1hkbSc/tX5z\nJ28aaeYAonfM5d/cwiNCfjWfZwKBgQDIuct1oCBR6DdzzTLd+I/aM05bAG4tzGTZ\nQIVG3i64FPMP3s9P6LsyGZ4OJ70AGRuM/50A0Z5bPQ4LVeVb7GS7VYC5xJOVU4IB\nMUCY8V0gKIJ6a88TO3uCFgB0ebOWsTah2yfWFRIb0P/Ka6gzRuToMkkbRJbRrjll\niwQRMMpYsQKBgHcKlgInQYL2LfGpuflJE46cQj1LNwfSvgMuNnyQZgCgnpiVKuqw\nte2uAAsn+ns6obg6z7lM6io6YVDAotzKhUeSvsCJfIlYIMglrpFm9vVY7z4YNTso\n3QiRevIUM1aD+dVAXOvODkWfsXQ8/UinsMHAoVlB/6p3A83Jye8br3SNAoGBAKFc\nGp84VkMB9nH1J0shoiK60+Z79haDFR9AquNJgS0iSjMb3nRSlwmzZkfi0iDeDjPO\n2Jvr5u1Zq4yZRIQdCO0/0veDe1CzjPMAcPmCLmbHqfxX5mODkcoFfeAkZaZiV5TN\n5LxIvAH4hWhoGxL9js7KfdKZ1NRCxolGs8JOApxBAoGAeEQVSQNBfyYLfWc1DF2m\n9pQtursK+hhwaDaBGIrTqD89AINuR1hBj0qbBG9grZgWpovM/Mp4nfaJAVhBapei\n1vfY0Q5epnI1ABQJXFTbUcab/CCOfaMAjXYRR6qgBBMJcIT02nTiVuFzSRNtnUxo\nIx0q/b1GXUyriMR1dslPVVA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-service-account@datamatics-hackathon.iam.gserviceaccount.com",
+  "client_id": "113614482780732237419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-service-account%40datamatics-hackathon.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
