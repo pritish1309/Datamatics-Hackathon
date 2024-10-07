@@ -2,7 +2,8 @@
 
 The final project is in the file named assembled.py.
 
-I have uploaded 3 json files as well.
+3 json files are to be used as well.
+
 The client_secret.json is the google OAuth2.0 file which you will get onece you complete the google authorization of the email you wish to use.
 (Note : Save the name of the jason file as client_secret.json for the program to work)
 
